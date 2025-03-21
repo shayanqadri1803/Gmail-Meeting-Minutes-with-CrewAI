@@ -47,3 +47,4 @@ Generated files will be saved in the `meeting_minutes_text` directory:
 - `summary.txt`: Meeting summary
 - `action_items.txt`: Extracted action items
 - `sentiment.txt`: Meeting sentiment analysis
+- The email draft will be in your gmail and assigned to be sent to the email and have set in the .env file
